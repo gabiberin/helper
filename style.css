@@ -68,3 +68,13 @@ nav.main-menu-nav > ul > li > span > a {
   color: #333;
   font-weight: 400;
 }
+
+#site-logo-wrap a.site-logo {
+  padding: 20px 20px;
+  margin-top: 10px;
+  margin-bottom:10px;
+  font-size: 24px;
+  font-weight:600;
+  color: #444;
+}
+  
